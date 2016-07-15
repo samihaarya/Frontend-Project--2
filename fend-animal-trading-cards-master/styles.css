@@ -1,0 +1,49 @@
+/* add your CSS here */
+body{
+  margin: 0 35vw;
+}
+h3{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+}
+.container{
+  border: solid 1px #bdb9b9;
+  font-weight: 200px;
+  width: 300px;
+  padding-bottom: 20px;
+  padding-top: 15px;
+  padding-right: 20px;
+  padding-left: 20px;
+  -webkit-box-shadow: 10px 10px 9px -3px rgba(235,230,235,1);
+  -moz-box-shadow: 10px 10px 9px -3px rgba(235,230,235,1);
+  box-shadow: 10px 10px 9px -3px rgba(235,230,235,1);
+}
+.text_breif{
+  list-style: none;
+  padding: 0px;
+}
+.italic{
+  font-style: italic;
+}
+.text{
+  border: solid 1px #bdb9b9;
+  margin-top: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 280px;
+  font-size: 15px;
+}
+.type{
+  font-style: normal;;
+  font-weight: bold;
+}
+.title{
+  padding-top: 5px;
+  padding-bottom: 10px;
+  margin: 0px;
+}
+.image{
+  height: 200px;
+  width: 300px
+}
